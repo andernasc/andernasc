@@ -20,7 +20,7 @@
 
 - ✅ Tenho formação em Redes de Computadores e Pós Graduação em Sistemas de Informação.
 
-- 💻⏩  Tenho paixão pela tecnologia, além da área de Redes/Suporte, também sou estudante nas áreas de Dados e Desenvolvimento, vamos codar! 🤓
+- 💻⏩  Tenho paixão pela tecnologia, além da área de Redes/Suporte, também sou entusiasta nas área de Dados! 🤓
 
    
 </p>
